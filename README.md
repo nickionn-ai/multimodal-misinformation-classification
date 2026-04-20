@@ -73,6 +73,22 @@ The multimodal model achieves the best overall performance, demonstrating that c
 
 ---
 
+## 📊 Results
+
+![Performance](assets/performance.png)
+
+---
+
+## 🧠 Key Results
+
+- Multimodal model achieved highest accuracy (~0.76)
+- Late fusion outperformed early fusion
+- ROC-AUC ≈ 0.78 indicating good discrimination
+- Precision-Recall AUC highlights trade-off in recall-heavy scenarios
+- Multimodal approach reduces false negatives significantly
+
+---
+
 ## 📈 Key Insights
 
 - Multimodal learning significantly improves performance over single-modality models  
