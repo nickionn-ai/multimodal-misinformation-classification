@@ -20,7 +20,7 @@ can improve classification accuracy compared to individual models.
 
 ## 🧠 Methodology
 
-The pipeline consists of the following steps:
+The  pipeline consists of the following steps:
 
 1. **Data Preprocessing**
    - Clean text and image URLs
